@@ -19,3 +19,6 @@ Benefits of using JsonPowerDB
 
 Release History (release of your JsonPowerDB related code on Github):
   As it is Updated in the course_login2xplore 
+  
+To View The Written Code:
+ Check in branches named master.
